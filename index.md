@@ -41,8 +41,8 @@ Channel management system aimed at managing electronic channels, communication c
 #### Tehran, Iran
 #### Java Software Developer
 #### May 2018 - Jul 2019  1 yr 3 mos
-####Java EE Developer
-####May 2017 - May 2018  1 yr 1 mo
+#### Java EE Developer
+#### May 2017 - May 2018  1 yr 1 mo
 
 SAAT engineering company established in 2001. Digital TV and radio solution development has defined as the company’s mission. The mission includes automation and digitization of radio and TV production cycles, Playouts, and archives.
 
