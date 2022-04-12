@@ -55,12 +55,12 @@ My experience in SAAT Co:
 • Proficient in designing applications using Design Patterns such as Singleton, Factory, Facade, Abstract.
 • Experience in designing and developing web-based applications using AngularJS
 
-###Eduction
-Malek Ashtar University of Technology
+### Eduction
+#### Malek Ashtar University of Technology
 Master of Engineering - MEng  Electrical and Electronics Engineering
 Sep 2013 - Present
 
-Esfahan Technical and Vocational College (Mohajer)
+#### Esfahan Technical and Vocational College (Mohajer)
 Bachelor of Engineering - BE  Electrical and Electronics Engineering
 Jan 2009 - Sep 2013
 
