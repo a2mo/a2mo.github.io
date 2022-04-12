@@ -14,7 +14,7 @@ Specialties: Java, Spring, Spring Boot, Spring MVC, Spring Data, Microservices, 
 
 ### Experience
 
-####TOSAN (Banking and Payment Solutions Provider 
+#### TOSAN (Banking and Payment Solutions Provider 
 Senior Java Developer
 TOSAN (Banking and Payment Solutions Provider)
 May 2018 - Present  4 yrs
@@ -65,5 +65,3 @@ Bachelor of Engineering - BE  Electrical and Electronics Engineering
 Jan 2009 - Sep 2013
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
