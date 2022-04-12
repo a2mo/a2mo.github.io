@@ -58,7 +58,7 @@ SAAT engineering company established in 2001. Digital TV and radio solution deve
 ## Eduction
 ### Malek Ashtar University of Technology
 #### Master of Engineering - MEng  Electrical and Electronics Engineering
-`Sep 2013 - Present`
+`Sep 2013 - Sep 2018`
 
 ### Esfahan Technical and Vocational College (Mohajer)
 #### Bachelor of Engineering - BE  Electrical and Electronics Engineering
