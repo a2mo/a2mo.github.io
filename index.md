@@ -15,9 +15,10 @@ Specialties: `Java`, `Spring`, `Spring Boot`, `Spring MVC`, `Spring Data`, `Micr
 ## Experience
 
 ### TOSAN (Banking and Payment Solutions Provider 
-#### Tehran, Iran
+`Tehran, Iran`
 #### Senior Java Developer
-#### May 2018 - Present  4 yrs
+`May 2018 - Present  4 yrs`
+
 TOSAN is the first and largest market-leading provider of banking software solutions to retail, corporate, private, micro-finance financial institutions in Iran.
 
 #### My experience in Tosan:
@@ -38,11 +39,11 @@ Channel management system aimed at managing electronic channels, communication c
 >* Design Reactive Calendar Bank Event, Two step login, Licensing, Component Test and etc.
 
 ### Saat Co
-#### Tehran, Iran
+`Tehran, Iran`
 #### Java Software Developer
-#### May 2018 - Jul 2019  1 yr 3 mos
+`May 2018 - Jul 2019  1 yr 3 mos`
 #### Java EE Developer
-#### May 2017 - May 2018  1 yr 1 mo
+`May 2017 - May 2018  1 yr 1 mo`
 
 SAAT engineering company established in 2001. Digital TV and radio solution development has defined as the company’s mission. The mission includes automation and digitization of radio and TV production cycles, Playouts, and archives.
 
@@ -57,10 +58,10 @@ SAAT engineering company established in 2001. Digital TV and radio solution deve
 ## Eduction
 ### Malek Ashtar University of Technology
 #### Master of Engineering - MEng  Electrical and Electronics Engineering
-Sep 2013 - Present
+`Sep 2013 - Present`
 
 ### Esfahan Technical and Vocational College (Mohajer)
 #### Bachelor of Engineering - BE  Electrical and Electronics Engineering
-Jan 2009 - Sep 2013
+`Jan 2009 - Sep 2013`
 
 ### Support or Contact
